@@ -38,6 +38,7 @@ public class AT03_XpathLearning {
         Thread.sleep(20000);
         //xpath version-4
         //Click on create account button
+
         driver.findElement(By.xpath("//*[@id='create-account']")).click();
 
 
