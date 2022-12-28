@@ -1,4 +1,4 @@
-package JavaOOPSconcepts.BaseClass;
+package BaseClass;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.WebDriver;
